@@ -1,6 +1,6 @@
 # ⚡ Voltix – Análisis y Optimización del Consumo Energético
 
-![Dashboard Voltix](./screenshots/be0bfb43-e45f-452c-a4cf-960785cd4113.png)
+![Dashboard Voltix]
 
 **Voltix** es un proyecto desarrollado como Trabajo de Fin de Máster en Data Science & Analytics, cuyo objetivo fue analizar y optimizar el uso energético de una empresa con múltiples centros operativos. Se utilizaron herramientas de inteligencia empresarial para diseñar visualizaciones interactivas que facilitan la toma de decisiones estratégicas.
 
