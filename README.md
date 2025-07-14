@@ -1,6 +1,6 @@
-# 💼 Data Science & Analytics Portfolio – [Tu Nombre]
+# 💼 Data Science & Analytics Portfolio – Matías Alucema
 
-¡Hola! Soy Matías Aucema, graduado del Máster en Data Science & Analytics en MIOTI | Tech & Business School y Máster en Artificial Intelligence & Analytics en Universidad Complutense de Madrid.
+¡Hola! Soy Matías Alucema, graduado del Máster en Data Science & Analytics en MIOTI | Tech & Business School y Máster en Artificial Intelligence & Analytics en Universidad Complutense de Madrid.
 
 Este repositorio reúne mis principales proyectos aplicados al análisis de datos, ciencia de datos y visualización. Cada carpeta contiene un proyecto con su documentación, código, y recursos visuales.
 
