@@ -45,7 +45,7 @@ Este proyecto puede ser ampliado para incluir:
 ### Cómo Ejecutar el Proyecto
 
 1.  Clona este repositorio:
-    `git clone https://github.com/[Tu_Usuario]/[Tu_Repo].git`
+    `git clone https://github.com/MatiasAlucema/data-and-IA-portfolio.git`
 2.  Instala las dependencias:
     `pip install -r requirements.txt`
 3.  Ejecuta el script para generar los datos brutos:
